@@ -1,5 +1,5 @@
 # sourcedocuments
-Source Documents for the heureCLÉA project http:/heureclea.de
+Source Documents for the heureCLÉA project http://heureclea.de
 Offsets given in the <ptr> elements of the annotations are zero based character offsets calculated with these documents.
 
 | Title                     | Description                                                                                                                                                                                                                                                                        |

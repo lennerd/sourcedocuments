@@ -1,0 +1,14 @@
+{
+  "name": "sourcedocuments",
+  "version": "1.0.0",
+  "description": "Source Documents for the heureCLÉA project http://heureclea.de",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennerd/sourcedocuments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lennerd/sourcedocuments/issues"
+  },
+  "homepage": "https://github.com/lennerd/sourcedocuments#readme"
+}
